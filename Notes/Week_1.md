@@ -1,6 +1,6 @@
 # Week 1
 
-##Assignments
+## Assignments
 
 ### Assignment 1.1
 https://github.com/chnvd/up206a-chaithra 
