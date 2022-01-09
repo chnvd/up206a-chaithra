@@ -13,7 +13,7 @@ A URL link to the data on your repo
 either : https://www.jstor.org/stable/24482492?casa_token=vb9D1iqnK-EAAAAA%3A7OXrE4bXl7f1Pt_7qVEtrxFSk551hfyCmlHHKscbe_QBdpBqTlkaVBi_CxjlLedbJP7GPmpKjaNHU-LCYa-WqRR1D2ka0W2iiTTxJaOm2x89eaeKdVY&seq=1#metadata_info_tab_contents
 https://www.jstor.org/stable/pdf/24482492.pdf?refreqid=excelsior%3A2802a497295f94bb48085f757086c10d
 
-#This week's "thinking cap" assignment is for you to find an article, blog, journal, chapter, or book that includes a spatial component (a map, chart, graphic) in regards to a topic related to urban justice. Make sure it is something that you would like to share with the class. Then, write post with two parts:
+## This week's "thinking cap" assignment is for you to find an article, blog, journal, chapter, or book that includes a spatial component (a map, chart, graphic) in regards to a topic related to urban justice. Make sure it is something that you would like to share with the class. Then, write post with two parts:
 
 ### A paragraph that summarizes the article and reflects critically and creatively about the material in your own words. 
 
