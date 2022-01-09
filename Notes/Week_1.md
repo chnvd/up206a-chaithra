@@ -23,8 +23,7 @@ It argues that spatial patters of urban inequality are not mere 'location', but 
 
 # Why did this article speak to you in regards to your approach to data and research? 
 
-First, this article uses relatively simple data and technique in its analysis to produce a very critical policy insight. It uses the spatial dimention of the issue in focus as the primary mode of looking at the issue, in divergence with more common way of approaching inequality. They are able to provide a rationale for disproportionate results of earlier policy, and reccomodnt policy direction that could correct the issues. 
-It also argues for a shift in thinking, and the importace of spatiality not as a mere proxy for location, but as a basis for policy and action. 
+This article uses relatively simple data and technique in its analysis to produce a very critical policy insight. It uses the spatial dimention of the issue in focus as the primary mode of looking at the issue, in divergence with more common way of approaching inequality. They are able to provide a rationale for disproportionate results of earlier policy, and reccomend policy direction that could correct the issues. It also argues for a shift in thinking, and the importace of spatiality not merely as a proxy for location, but as a basis for policy and action. 
 
 # How does it inform your learning goals for this course?
 
@@ -32,6 +31,6 @@ One of my learing goals is to be able to spatial data science to be able to info
 
 # How do you think the graphical outputs (maps/charts) were created for the article? Where did the data come from, and how do you think the outputs were created? Does it work? Why or why not?
 
-I am usure how the maps were created. The data for it came from a mix of offical data bases. It uses data on city classification, and ward-level boundaries. The indexes are statistically developed and are in a range between 0-1. A gradient is used to indicate each ward's position on the scale. It works, because the paper's aim is to present an alternative way to concieve and visualise inequality within cities. 
+I am usure as to the software used to create the maps. The data for it came from a mix of offical data bases. It uses data on statutory classification of urban settlements in India, and ward-level boundaries. The indexes are developed from a set of household-level variables collected though the Census, and are in a range of 0-1. A density map is used, with color gradations varying by the ward's score for the index. It works well, because the paper's aim is to present a spatial way to visualise inequality within cities. However since this is a publised paper, the maps used are static.
 
 The instructors will select a few of the readings for discussion in week 2.
