@@ -1,7 +1,9 @@
+# Project
+A project I would like to work on: "Assessing Chennai's Climate Vulnerability by Urban Developments". Chennai is a two century old city in the South Indian state of Tamil Nadu. It has been in a global spotlight for frequent climate disasters in the past decade, with floods, droughts, severe heat, cyclones, and rising sea levels striking the city in close succession, compounded by pollution, and severe environmental degradation. The project will assess climate vulnerability for different regions of Metropolitan Chennai defined by their urban development characteristics. Specifically, I would like to perform a spatial analysis of Chennai's pollution and temperature over years and compare it with urban sprawl and the reduction of waterbodies.
+
 # Data Sources For the Project
-Come back and Check
-https://images.hindustantimes.com/images/app-images/2021/11/ceew-study-on-climate-change-vulnerability-index-and-district-level-risk-assessment.pdf
-https://hal.archives-ouvertes.fr/hal-01144122/
-https://www.sciencedirect.com/science/article/pii/S095937801200115X?casa_token=mCWKcohW5a0AAAAA:HbbZWjpU-981YxgNgnfmcnec4qIKzlBQlOL9WSoe3fJSWKknSBO3rR9aPuQly1k__93zF6j86Q
-https://www.researchgate.net/profile/Faiz-Chundeli/publication/323958568_Flood_Vulnerability_Assessment_using_Geospatial_Techniques_Chennai_India/links/5ab4bc76458515ecebf18cbb/Flood-Vulnerability-Assessment-using-Geospatial-Techniques-Chennai-India.pdf
-https://www.tandfonline.com/doi/full/10.1080/17565529.2016.1154449?casa_token=J6B9tfHKeJgAAAAA%3AFACGsv9PKXQ5nbuH9AfVEtPOf9k0MSAbuGt3Xl2wrcVctzMmXIJTTzBaiqRFz1PfSaGKVyBkQg-K
+This project might have met a premature closure due difficulty in finding data. Most research that asked questions similar to mine use satellite imagery to get details on urban sprawl.https://bhuvan-app3.nrsc.gov.in/data/download/index.php hosts data from India's satelite. I am at wit's end how to access/use them.  
+
+1. https://chennai.catalogue.iudx.org.in/dataset/cscl.co.in-6c614d4ddb17b0dfc6e3c1bc8ddcb25ce25e310b-rs.iudx.org.in-chennai-env-aqm
+API Links for air quality parameters from select stations in Chennai. These can be used to include pollution parameters for city regions.
+
